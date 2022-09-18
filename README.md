@@ -22,7 +22,7 @@ This analysis is of bike-sharing data to prove that the program is a solid busin
    ![](Images/Trips%20by%20Usertype.png)
   
     *  Males seem to ride more than females in both the subscriber and customer categories.
-    ![](Images/Riders%20by%20gender.png)
+  ![](Images/Trips%20by%20gender.png)
 
     * The average age group for riders are 25-35 in all categories.
     ![](Images/riders%20by%20age.png)
