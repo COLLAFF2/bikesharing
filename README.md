@@ -1,7 +1,7 @@
 # bikesharing
 Using Citi Bike public data and tableau
-
-![Tableau Public Link](https://public.tableau.com/app/profile/colleen8475/viz/Citibike_tableauchallenge/UserTripsbyGenderbyWeekday)
+[Link to Tableau Public](https://public.tableau.com/app/profile/colleen8475)
+[Tableau Public Link worksheets](https://public.tableau.com/app/profile/colleen8475/viz/Citibike_tableauchallenge/UserTripsbyGenderbyWeekday)
 
 ## Where do rides start/end?
     * By usertype
