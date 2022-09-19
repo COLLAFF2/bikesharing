@@ -19,26 +19,26 @@ This analysis is of bike-sharing data to prove that the program is a solid busin
 
 ## Who rides?
     * "Subscribers" greatly outnumber the number of "customers" that ride citibike.
-   ![](Images/Trips%20by%20Usertype.png)
+  ![](Images/Trips%20by%20Usertype.png)
   
     *  Males seem to ride more than females in both the subscriber and customer categories.
   ![](Images/Trips%20by%20gender.png)
 
     * The average age group for riders are 25-35 in all categories.
-    ![](Images/riders%20by%20age.png)
+  ![](Images/riders%20by%20age.png)
 
 ## When do they ride?
     * The slowest days of the week for riders is Sunday and Wednesday.
-    ![](Images/Rides%20by%20weekday.png)
+  ![](Images/Rides%20by%20weekday.png)
 
     * The trend seems to be that the peak hours to ride are between 7-9 am and 5-7 pm. Males riding more than females.
-     ![](Images/Trips%20by%20gender.png)
+  ![](Images/Trips%20by%20gender.png)
 
 ## How long is the ride?
     * Customers see to take longer rides with an average of 30 minutes a ride. Where as subscribers average ride is 15 minutes, which might suggest they use the bikes for more of a commute purpose.
     * Females tend to take longer rides and the age groups that take longer rides are 25-35 years of age.
     * The majority of bikes are taken out for 15-20 mins.
-    ![](Images/How%20long%20is%20the%20ride.png)
+  ![](Images/How%20long%20is%20the%20ride.png)
 
 
  # Summary
