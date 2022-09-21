@@ -10,7 +10,8 @@ Using Citi Bike public data and tableau
 
 # Overview
 ----------------
-This analysis is of bike-sharing data to prove that the program is a solid business proposal.
+ * This analysis is of bike-sharing data  from August of 2019 in New York City to prove that the program is a solid business proposal to launch this in Des Moines.
+ * During analysis the unknown genders where filtered out becuase we want to look at the data by gender. Also we removed any age groups over 90.
 
 
 # Results
@@ -44,6 +45,7 @@ This analysis is of bike-sharing data to prove that the program is a solid busin
  # Summary
  ---------------------- 
    * The bike-sharing program seems to be used frequently in a metropolitan area. The average age group for both men and women is 25-35. Women seem to take longer rides. The slowest days of the week are Sunday and Wednesday. The peak hours during the week are 7-9 am and 5-7 pm suggesting that people use it for commutes. Subscribers are the majority of riders, but customers take longer rides.
-   * Something to consider is the usage of bikes and the maintenance requirements. There are a number of bikes that have over 400 hours of ride time and several that are close to almost a thousand hours. what will the cost be to maintain and do these increased rides on these particular bikes coincide with popuar start stations . Does this also have to do with the population around those stations?
+   * There seems to be a default setting to the age of 50 in the collection of data which could skew the age data. This is something to be considered to be fixed.
+   * Also  the usage of bikes and the maintenance requirements should be taken into account.. There are a number of bikes that have over 400 hours of ride time and several that are close to almost a thousand hours. what will the cost be to maintain and do these increased rides on these particular bikes coincide with popuar start stations . Does this also have to do with the population around those stations?
    ![](Images/Bike%20Maintenance.png)
    ![](Images/Top%2010%20stations.png)
