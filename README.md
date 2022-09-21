@@ -46,6 +46,6 @@ Using Citi Bike public data and tableau
  ---------------------- 
    * The bike-sharing program seems to be used frequently in a metropolitan area. The average age group for both men and women is 25-35. Women seem to take longer rides. The slowest days of the week are Sunday and Wednesday. The peak hours during the week are 7-9 am and 5-7 pm suggesting that people use it for commutes. Subscribers are the majority of riders, but customers take longer rides.
    * There seems to be a default setting to the age of 50 in the collection of data which could skew the age data. This is something to be considered to be fixed.
-   * Also  the usage of bikes and the maintenance requirements should be taken into account. There are a number of bikes that have over 400 hours of ride time and several that are close to almost a thousand hours. What will the cost be to maintain and do these increased rides on these particular bikes coincide with popuar start stations? Does this also have to do with the population around those stations?
+   * Also  the usage of bikes and the maintenance requirements should be taken into account. There are a number of bikes that have over 400 hours of ride time and several that are close to almost a thousand hours. What will the cost be to maintain and do these increased rides on these particular bikes coincide with popular start stations? Does this also have to do with the population around those stations?
    ![](Images/Bike%20Maintenance.png)
    ![](Images/Top%2010%20stations.png)
